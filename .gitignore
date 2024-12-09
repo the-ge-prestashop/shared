@@ -1,0 +1,21 @@
+*.log
+.env
+.env.backup
+.env.production
+
+auth.json
+
+### Composer, https://getcomposer.org/doc/01-basic-usage.md#commit-your-composer-lock-file-to-version-control
+composer.phar
+/vendor/
+
+### Node.js
+node_modules/
+
+### PHP-CS-Fixer, https://cs.symfony.com/
+# Generated files
+.php-cs-fixer.cache
+# Local config See: https://cs.symfony.com/doc/config.html
+.php-cs-fixer.php
+
+.phpactor.json
