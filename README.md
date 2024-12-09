@@ -1,2 +1,6 @@
-# prestashop-helper
-PrestaShop shared helpers and hacks
+# PrestaShop shared helpers and hacks
+
+## Install
+
+```sh
+composer require the-ge-prestashop/shared
