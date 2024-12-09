@@ -3,4 +3,5 @@
 ## Install
 
 ```sh
-composer require the-ge-prestashop/shared
+composer require the-ge/prestashop-shared
+```
